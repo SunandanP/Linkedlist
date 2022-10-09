@@ -1,0 +1,3 @@
+C:/Users/Sunandan Phalke/CLionProjects/singlyLinkedList/cmake-build-debug/CMakeFiles/singlyLinkedList.dir
+C:/Users/Sunandan Phalke/CLionProjects/singlyLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sunandan Phalke/CLionProjects/singlyLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
